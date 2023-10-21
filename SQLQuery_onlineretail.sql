@@ -141,11 +141,11 @@ group by Description order by Total_Quantity_Sale desc
 /* After see the result we find total 3885 products in this table :
 following top 5 which purchaged highest time are here:
 
-	Item Name							     Total_Quantity_Sale
+	Item Name				       Total_Quantity_Sale
 	1. WHITE HANGING HEART T-LIGHT HOLDER		2070
-	2. REGENCY CAKESTAND 3 TIER					1905
-	3. JUMBO BAG RED RETROSPOT					1662
-	4. ASSORTED COLOUR BIRD ORNAMENT			1418
-	5. PARTY BUNTING							1416
+	2. REGENCY CAKESTAND 3 TIER			1905
+	3. JUMBO BAG RED RETROSPOT			1662
+	4. ASSORTED COLOUR BIRD ORNAMENT		1418
+	5. PARTY BUNTING				1416
 
 */
