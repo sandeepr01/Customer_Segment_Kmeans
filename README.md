@@ -21,7 +21,7 @@ This project aims to perform customer segmentation using a combination of SQL fo
 
 ## Files :
 * Data Preparation:
-  ** SQL files for data cleaning and analysis.
+  SQL files for data cleaning and analysis.
 * Jupyter Notebook:
   Python code for data loading, K-means clustering, and result visualization.
 * CSV File:
