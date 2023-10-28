@@ -8,7 +8,7 @@ This project aims to perform customer segmentation using a combination of SQL fo
 2. Data Cleaning and Analysis: Utilize SQL queries to clean and analyze the data. Perform 10 query-based analyses to understand the dataset.
 
 ### Using Python :
-!. Import Data Using Pyodbc and Pandas: Access the data stored in the MS SQL Server using the Pyodbc Python module and load it into a Pandas DataFrame in a Jupyter Notebook.
+1. Import Data Using Pyodbc and Pandas: Access the data stored in the MS SQL Server using the Pyodbc Python module and load it into a Pandas DataFrame in a Jupyter Notebook.
 2. Segmentation with K-means Clustering: Apply the K-means clustering algorithm to segment customers based on selected features.
 3. Visualization and Interpretation of the Results: Visualize the clustered results to interpret and understand the segments created.
 4.Save Result File in CSV Format: Save the segmented data into a CSV file for future use or analysis.
@@ -21,7 +21,7 @@ This project aims to perform customer segmentation using a combination of SQL fo
 
 ## Files :
 * Data Preparation:
-  SQL files for data cleaning and analysis.
+  ** SQL files for data cleaning and analysis.
 * Jupyter Notebook:
   Python code for data loading, K-means clustering, and result visualization.
 * CSV File:
